@@ -28,7 +28,8 @@ Work on Session 5 topics and advanced algorithmic patterns.
 **Issues Faced:**
 - None
 
----## Date: 04-09-2026
+---
+## Date: 04-09-2026
 **Today's Work:**
 Completed Week 5 Category C Problems (5 class problems + 5 assignment problems) covering in-place array modification, 2D array row averaging, Comparable interfaces, and method overloading.
 
@@ -45,6 +46,17 @@ Completed Week 6 Category C Problems (5 Class Problems + 5 Assignment Problems) 
 
 **Next Session Plan:**
 Work on Session 7 topics covering inheritance, method overriding, and polymorphism.
+
+**Issues Faced:**
+- None
+
+---
+## Date: 19-09-2026
+**Today's Work:**
+Completed Week 7 Category C Problems (5 Practice Problems + 5 Assignment Problems) focusing on encapsulation and access control principles: private fields, immutability, write-only fields, array defensive copying (`Arrays.copyOf`), boundary checking/clamping, and strict state transitions.
+
+**Next Session Plan:**
+Work on Session 8 topics covering inheritance hierarchies, abstract classes, and interface contracts.
 
 **Issues Faced:**
 - None
