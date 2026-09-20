@@ -18,3 +18,14 @@ Work on Session 3 topics and object-oriented programming concepts.
 - None
 
 ---
+## Date: 28-08-2026
+**Today's Work:**
+Completed Week 4 Category C Problems (5 class problems + 5 assignment problems) covering two-pointer search, array rotations, Kadane's algorithm, prefix sum hash maps, and modified binary search.
+
+**Next Session Plan:**
+Work on Session 5 topics and advanced algorithmic patterns.
+
+**Issues Faced:**
+- None
+
+---
