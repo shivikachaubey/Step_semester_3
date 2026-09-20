@@ -39,3 +39,14 @@ Work on Session 6 topics and advanced object-oriented design principles.
 - None
 
 ---
+## Date: 12-09-2026
+**Today's Work:**
+Completed Week 6 Category C Problems (5 Class Problems + 5 Assignment Problems) focusing on core OOP principles: class design, constructor chaining (`this()`), encapsulation/data hiding, object reference comparison (`==`), and static members vs instance members.
+
+**Next Session Plan:**
+Work on Session 7 topics covering inheritance, method overriding, and polymorphism.
+
+**Issues Faced:**
+- None
+
+---
