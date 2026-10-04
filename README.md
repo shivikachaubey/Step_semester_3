@@ -1,4 +1,8 @@
+ feature/session_8
 ## Date: 22-08-2026
+
+## Date: 22-.08-2026
+ main
 **Today's Work:**
 Completed Week 1 Day 1 Live-Coding Session (5 problems) and Week 1 Assignment (5 problems) covering arrays, string manipulation, loops, and conditional logic. Set up project structure across branches following repository standards.
 
@@ -7,8 +11,11 @@ Work on Session 2 topics and advanced data structure problems.
 
 **Issues Faced:**
 - None
+ feature/session_8
 
 ---
+
+ main
 ## Date: 28-08-2026
 **Today's Work:**
 Completed Week 2 Day 2 Live-Coding Session (5 problems) and Week 2 Assignment (5 problems) covering String manipulations, substring extraction, StringBuilder, split(), and frequency counting.
@@ -63,6 +70,7 @@ Work on Session 8 topics covering inheritance hierarchies, abstract classes, and
 **Issues Faced:**
 - None
 
+ feature/session_8
 ---
 ## Date: 26-09-2026
 **Today's Work:**
@@ -73,3 +81,6 @@ Work on Session 9 topics covering Java interface contracts, default/static inter
 
 **Issues Faced:**
 - None
+
+---
+main
